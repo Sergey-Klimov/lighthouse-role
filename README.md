@@ -65,7 +65,7 @@ MIT
 Author Information
 ------------------
 
-Sergey klimov
+Sergey Klimov
 
 <saimsait85@gmail.com>
 
